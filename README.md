@@ -7,9 +7,9 @@ This project applies **Bayesian forecasting** to three real-world scenarios: U.S
 
 ## Forecasting Questions 
 
-### 1. Will U.S. inflation rise in 2024 compared to 2023?
-### 2. Will India and China enter a lethal military conflict by Dec 31, 2024?
-### 3. How many U.S. viewers will watch the Euro Cup 2024 Final live?
+#### 1. Will U.S. inflation rise in 2024 compared to 2023?
+#### 2. Will India and China enter a lethal military conflict by Dec 31, 2024?
+#### 3. How many U.S. viewers will watch the Euro Cup 2024 Final live?
 
 ---
 
